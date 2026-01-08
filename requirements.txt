@@ -1,11 +1,4 @@
-# Telegram API
+aiohttp==3.8.5
 pyTelegramBotAPI==4.11.0
-
-# HTTP so'rovlar uchun
 requests==2.31.0
-
-# Asinxron HTTP mijoz – Python 3.13 bilan mos
-aiohttp>=4.0.0,<5.0.0
-
-# Muhit o'zgaruvchilarini yuklash
 python-dotenv==1.0.0
