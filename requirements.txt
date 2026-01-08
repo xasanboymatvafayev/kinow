@@ -1,4 +1,15 @@
-telebot
-sqlite3
-os
-datetime
+# Telegram bot
+pyTelegramBotAPI==4.11.0
+
+# HTTP so'rovlar (agar kerak bo'lsa)
+requests==2.31.0
+aiohttp==3.8.5
+
+# Muhit o'zgaruvchilarini o'qish (.env fayl)
+python-dotenv==1.0.0
+
+# Ma’lumotlar bazasi (SQLite Python bilan birga keladi, shuning uchun alohida kerak emas)
+# sqlite3
+
+# Sana/vaqt bilan ishlash uchun kutubxona (Python standart)
+# datetime
