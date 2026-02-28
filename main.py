@@ -6,7 +6,7 @@ from datetime import datetime
 
 # ============= SOZLAMALAR =============
 TOKEN = "8523689499:AAFVN-nEZyRtlO8ubOkiSAibN8HgN-jgMF0"
-MAIN_ADMIN_ID = 6365371142  # Asosiy admin (o'chirib bo'lmaydi)
+MAIN_ADMIN_ID = 7892218543  # Asosiy admin (o'chirib bo'lmaydi)
 
 bot = telebot.TeleBot(TOKEN)
 
